@@ -58,7 +58,7 @@ else:
 
 includelist.sort(key=freq)
 
-
+print('start')
 print(includelist)
 print(len(includelist))
 
